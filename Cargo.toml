@@ -1,0 +1,8 @@
+[package]
+name = "got-reciepts"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+escpos-rs = "0.4.3"
+serenity = "0.12.4"
